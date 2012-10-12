@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindAllSpanningTrees", "FindAllSpanningTrees\FindAllSpanningTrees.vcxproj", "{8173450C-E886-45F6-9501-13DC58DC69CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8173450C-E886-45F6-9501-13DC58DC69CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8173450C-E886-45F6-9501-13DC58DC69CB}.Debug|Win32.Build.0 = Debug|Win32
+		{8173450C-E886-45F6-9501-13DC58DC69CB}.Release|Win32.ActiveCfg = Release|Win32
+		{8173450C-E886-45F6-9501-13DC58DC69CB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
