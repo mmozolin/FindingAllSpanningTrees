@@ -1,28 +1,32 @@
-/*** FILE: main.cpp
-**
-** ABSTRACT:
-**  Enumerates all spanning trees in a directed graph 
-**   
-**
-** DOCUMENTS:
-**
-** Gabow, Harold N. and Myers, Eugene W. Finding all spanning trees of directed and undirected graphs. 
-** SIAM J. of Comput., Vol. 7, No. 3, August 78, pp. 280-287 
-**
-** Cormen, Thomas H. et.al. Introduction to algorithms. The MIT Press, Cambridge, 1990
-**
-** AUTHOR:
-**   Mikhail Mozolin
-**
-** CREATION DATE:
-**   10/10/2012
-**
-** NOTES:
-**   None
-**
-** HISTORY:
-** 000 - Oct 10, 2012 - M. Mozolin  - Creation
-*/
+//Copyright 2012 Mikhail Mozolin
+
+//    This file is part of FindAllSpanningTrees.
+//
+//    FindAllSpanningTrees is free software: you can redistribute it and/or modify
+//    it under the terms of the GNU Lesser General Public License as published by
+//    the Free Software Foundation, either version 3 of the License, or
+//    (at your option) any later version.
+//
+//    FindAllSpanningTrees is distributed in the hope that it will be useful,
+//    but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU Lesser General Public License for more details.
+//
+//    You should have received a copy of the GNU Lesser General Public License
+//    along with  FindAllSpanningTrees.  If not, see <http://www.gnu.org/licenses/>.
+
+
+//ABSTRACT:
+//Enumerates all spanning trees in a directed graph 
+//
+//REFERENCES:
+//Gabow, Harold N. and Myers, Eugene W. Finding all spanning trees of directed and undirected graphs. 
+//SIAM J. of Comput., Vol. 7, No. 3, August 78, pp. 280-287 
+//Cormen, Thomas H. et.al. Introduction to algorithms. The MIT Press, Cambridge, 1990
+
+
+
+
 
 
 #include <iostream>
